@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\training\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\FirstConsoleApplication\obj\Debug\netcoreapp3.1\FirstConsoleApplication.csproj.CoreCompileInputs.cache
