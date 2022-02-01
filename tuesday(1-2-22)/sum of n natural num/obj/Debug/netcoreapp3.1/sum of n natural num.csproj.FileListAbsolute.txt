@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.exe
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.deps.json
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.runtimeconfig.json
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.dll
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\bin\Debug\netcoreapp3.1\sum of n natural num.pdb
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.dll
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.pdb
+C:\Users\HP\Desktop\training\tuesday(1-2-22)\sum of n natural num\obj\Debug\netcoreapp3.1\sum of n natural num.genruntimeconfig.cache
