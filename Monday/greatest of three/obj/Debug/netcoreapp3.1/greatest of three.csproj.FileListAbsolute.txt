@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.exe
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.deps.json
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.runtimeconfig.json
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.dll
+C:\Users\HP\Desktop\training\greatest of three\bin\Debug\netcoreapp3.1\greatest of three.pdb
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.dll
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.pdb
+C:\Users\HP\Desktop\training\greatest of three\obj\Debug\netcoreapp3.1\greatest of three.genruntimeconfig.cache

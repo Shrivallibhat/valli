@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.exe
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.deps.json
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.runtimeconfig.json
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.dll
+C:\Users\HP\Desktop\training\age\bin\Debug\netcoreapp3.1\age.pdb
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.dll
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.pdb
+C:\Users\HP\Desktop\training\age\obj\Debug\netcoreapp3.1\age.genruntimeconfig.cache
