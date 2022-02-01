@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.exe
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.deps.json
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.json
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.dll
+C:\Users\HP\source\repos\problem1\bin\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.AssemblyInfo.cs
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.dll
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.pdb
+C:\Users\HP\source\repos\problem1\obj\Debug\netcoreapp3.1\problem1.genruntimeconfig.cache

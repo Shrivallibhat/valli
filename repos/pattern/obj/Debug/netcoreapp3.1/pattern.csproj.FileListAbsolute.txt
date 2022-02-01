@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.exe
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.deps.json
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.json
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.dev.json
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.dll
+C:\Users\HP\source\repos\pattern\bin\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfo.cs
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.dll
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\HP\source\repos\pattern\obj\Debug\netcoreapp3.1\pattern.genruntimeconfig.cache

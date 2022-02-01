@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\callbyval and call by rev\obj\Debug\netcoreapp3.1\callbyval and call by rev.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\callbyval and call by rev\obj\Debug\netcoreapp3.1\callbyval and call by rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\callbyval and call by rev\obj\Debug\netcoreapp3.1\callbyval and call by rev.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\callbyval and call by rev\obj\Debug\netcoreapp3.1\callbyval and call by rev.AssemblyInfo.cs
+C:\Users\HP\source\repos\callbyval and call by rev\obj\Debug\netcoreapp3.1\callbyval and call by rev.csproj.CoreCompileInputs.cache
