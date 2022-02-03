@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.exe
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.deps.json
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.runtimeconfig.json
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.dll
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\bin\Debug\netcoreapp3.1\pbm3.pdb
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.dll
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.pdb
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\pbm3\obj\Debug\netcoreapp3.1\pbm3.genruntimeconfig.cache

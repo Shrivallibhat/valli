@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\abstract class\obj\Debug\netcoreapp3.1\abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\abstract class\obj\Debug\netcoreapp3.1\abstract class.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\abstract class\obj\Debug\netcoreapp3.1\abstract class.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Thursday(3-4-22)\abstract class\obj\Debug\netcoreapp3.1\abstract class.csproj.CoreCompileInputs.cache
