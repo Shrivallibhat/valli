@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).exe
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).deps.json
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).runtimeconfig.json
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).dll
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\bin\Debug\netcoreapp3.1\PBLM3(INDEX).pdb
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).dll
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).pdb
+C:\Users\HP\Desktop\training\Friday(4-4-22)\PBLM3(INDEX)\obj\Debug\netcoreapp3.1\PBLM3(INDEX).genruntimeconfig.cache
