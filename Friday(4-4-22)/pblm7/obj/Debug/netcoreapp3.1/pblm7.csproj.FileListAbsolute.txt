@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\training\Friday(4-4-22)\pblm7\obj\Debug\netcoreapp3.1\pblm7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\Friday(4-4-22)\pblm7\obj\Debug\netcoreapp3.1\pblm7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Friday(4-4-22)\pblm7\obj\Debug\netcoreapp3.1\pblm7.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Friday(4-4-22)\pblm7\obj\Debug\netcoreapp3.1\pblm7.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Friday(4-4-22)\pblm7\obj\Debug\netcoreapp3.1\pblm7.csproj.CoreCompileInputs.cache
