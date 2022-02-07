@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\training\Monday(7-2-22)\pblm6(regex)\obj\Debug\netcoreapp3.1\pblm6(regex).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\training\Monday(7-2-22)\pblm6(regex)\obj\Debug\netcoreapp3.1\pblm6(regex).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\Monday(7-2-22)\pblm6(regex)\obj\Debug\netcoreapp3.1\pblm6(regex).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\Monday(7-2-22)\pblm6(regex)\obj\Debug\netcoreapp3.1\pblm6(regex).AssemblyInfo.cs
+C:\Users\HP\Desktop\training\Monday(7-2-22)\pblm6(regex)\obj\Debug\netcoreapp3.1\pblm6(regex).csproj.CoreCompileInputs.cache
