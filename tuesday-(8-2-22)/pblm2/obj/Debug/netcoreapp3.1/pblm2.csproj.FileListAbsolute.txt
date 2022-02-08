@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.exe
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.deps.json
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.runtimeconfig.json
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.dll
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\bin\Debug\netcoreapp3.1\pblm2.pdb
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.AssemblyInfo.cs
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.dll
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.pdb
+C:\Users\HP\Desktop\training\tuesday-(8-2-22)\pblm2\obj\Debug\netcoreapp3.1\pblm2.genruntimeconfig.cache
