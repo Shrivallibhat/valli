@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-public class ArrayListObjects
+public class ArraylistObjects
 {
     public static void Main(string[] args)
     {
@@ -39,4 +39,3 @@ public class ArrayListObjects
             return Name + " - " + Age;
         }
     }
-}
